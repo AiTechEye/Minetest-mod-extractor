@@ -1,6 +1,6 @@
 # Minetest mod extractor V1<br>
 
-# License: code: LGPL-2.1
+# License: LGPL-2.1
 
 ## This is not a minetest mod<br>
 **1: USE OF YOUR OWN RISK**<br>
